@@ -11,7 +11,7 @@
 <img 
   src="https://user-images.githubusercontent.com/54215462/198719432-38387df3-a7d2-4d5d-9028-cffa02c49888.png"
   alt="Testing Pyramid"
-  width="700px"
-  height="500px"
+  width="600px"
+  height="400px"
 />
 </div>
