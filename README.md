@@ -1,5 +1,5 @@
 # React Testing 🧪
-#### This is me learning <i>React-Testing-Library</i> &amp; <i>Jest</i> for the first time to start following a TDD (Test-Driven Development) approach in my career.
+#### This is me learning <i>React-Testing-Library</i> &amp; <i>Jest</i> for the first time to start following a TDD (Test-Driven Development) approach.
 
 ##### If you are interested in learning testing like me, I highly recommend watching this YouTube Playlist by Codevolution 🍿🎥👇 <br />
 <a href="https://youtube.com/playlist?list=PLC3y8-rFHvwirqe1KHFCHJ0RqNuN61SJd">React Testing Tutorial</a>
